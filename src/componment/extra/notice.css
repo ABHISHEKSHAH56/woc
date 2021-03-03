@@ -1,0 +1,24 @@
+.notice .header
+       
+{
+        font-size: 80px;
+        line-height: 0.9em;
+        margin-bottom: 30px;
+        font-family: "Nunito";
+        font-weight: bold;
+        color: #35404e;
+       
+
+}
+.notice
+        .scroll{
+                height: 400px;
+                background: rgb(62, 62, 155);
+                border: 2px solid white;
+                overflow-x: none;
+                overflow-y: scroll;
+        }
+
+.Carousel{
+        height: 500px;
+}

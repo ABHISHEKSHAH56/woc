@@ -1,0 +1,37 @@
+
+.Linksec .header h1{
+      
+      
+       
+        font-family: "Nunito";
+        font-weight: bold;
+        color: #35404e;
+        
+}
+.Linksec .header p{       
+        font-weight: 500;
+}
+.Linksec .service{
+       
+        margin-top: 15px;
+        
+
+}
+.Linksec .first{
+        margin:20px;
+        
+}
+.Linksec .first a{
+        color: #35404e;
+}
+.Linksec .cardk{
+        background:#fff;
+       
+
+}
+.Linksec .cardk :hover{
+        box-shadow: 0px 0px 5px .02px black;
+      
+       
+
+}

@@ -10,6 +10,7 @@
     "bootstrap": "^4.6.0",
     "customize-cra": "^1.0.0",
     "firebase": "^8.2.5",
+    "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-app-rewired": "^2.1.8",
     "react-bootstrap": "^1.4.3",
